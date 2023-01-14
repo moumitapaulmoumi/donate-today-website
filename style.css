@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@200;300&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
+header{
+  width: 100vw;
+  height: 100vh;
+  background-image: url('./images/donation13.jpg');
+  background-position: bottom;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-content{
+  font-style: normal;
+  margin-bottom: 150px;
+  color: whitesmoke;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+}
+.header-content h4{
+  font-size: 2vmin;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+} 
+.line{
+  width: 650px;
+  height: 6px;
+  background: #ffef0b;
+  margin: 10px auto;
+  border-radius: 5px;
+}
+.header-content h1 {
+  font-size: 7vmin;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+ .ctn {
+  padding: 8px 15px;
+  background: #ffef0b;
+  border-radius: 20px;
+  color: rgb(67, 14, 200);
+  
+} 
