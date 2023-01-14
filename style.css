@@ -50,5 +50,115 @@ header{
   background: #ffef0b;
   border-radius: 20px;
   color: rgb(67, 14, 200);
-  
 } 
+/* Donate Amount */
+.donate-today{
+  /* background-position: 50%; */
+  /* background: #eff304; */
+  border-radius: 10px;
+  padding: 130px 150px;
+  text-align: center;
+  
+  
+ }
+
+ .amount-title{
+  text-align: center;
+  font-weight: 700;
+  font-size: 75px;
+  margin-bottom: 50px;
+ }
+
+ .amount-description{
+  color: #0f025d;
+  font-size: 40px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+ .amount-container{
+  display: flex;
+  justify-content: space-around;
+ } 
+
+ .amount{
+  background: #daff05;
+  box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+  border-radius: 5px;
+  padding: 30px;
+  font-size: 50px;
+  margin-bottom: 50px;
+ }
+
+ .amount:hover{
+  color: #0f025d;
+ }
+
+ .other{
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-bottom: 50px;
+  color: rgb(132, 134, 134);
+ }
+ .line-next{
+  width: 650px;
+  height: 6px;
+  background: #430ec8;
+  margin: 10px auto;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+ .ctn-next {
+  padding: 8px 15px;
+  background: #430ec8;
+  border-radius: 40px;
+  color: #eff304;
+  font-size: 60px;
+ }
+
+ .plan-description{
+  color: #0f025d;
+  margin-bottom: 30px;
+  font-weight: 700;
+  font-size: 20px;
+  
+ }
+
+ .plan-container{
+  display: flex;
+  gap: 75px;
+ }
+
+ .plan-1{
+  background: #b3d1f2;
+  box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+  border-radius: 5px;
+  padding: 30px;
+  margin-bottom: 50px;
+  margin-left: 50px ;
+ }
+ .plan-2{
+  background: #cc97f0;
+  box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+  border-radius: 5px;
+  padding: 30px;
+  margin-bottom: 50px;
+ }
+ .plan-3{
+  background: #bdec9c;
+  box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+  border-radius: 5px;
+  padding: 30px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+ }
+ .plan-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #181818;
+  margin-top: 30px;
+  margin-bottom: 20px;
+ }
+
+ 
