@@ -161,10 +161,6 @@ header{
   margin-bottom: 20px;
  }
 
- 
-
-
-
 /* features */
 
 .features{
@@ -265,7 +261,7 @@ header{
   align-items: center; 
   margin-top: 30px;
   overflow: hidden;
-  margin-left: 250px;
+  margin-left: 200px;
   margin-right: 250px;
   /* margin-bottom: 30px; */
 
