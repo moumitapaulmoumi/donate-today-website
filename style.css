@@ -162,3 +162,144 @@ header{
  }
 
  
+
+
+
+/* features */
+
+.features{
+  padding: 50px 12%;
+  font-size: 22px;
+}
+.row{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 50px 0;
+}
+.text-col{
+  flex-basis: 50%;
+  margin-bottom: 20px;
+}
+.donation-title{
+  
+   font-weight: 700;
+   font-size: 55px;
+   color: #181818;
+   margin-bottom: 20px;
+}
+
+.donation-description{
+   font-weight: 400; 
+   margin-bottom: 50px;
+   font-size: 25px;
+   color: #0f025d;
+}
+
+ .img-col{
+  flex-basis: 50%;
+  margin-bottom: 20px;
+ }
+ .img-col img{
+  display: block;
+  width: 100%;
+  margin: auto;
+ }
+.features .ctn{
+  padding: 8px 15px;
+  margin-top: 0px;
+  background: #430ec8;
+  border-radius: 40px;
+  color: #eff304;
+  font-size: 30px;
+}
+
+.survive-title{
+  font-weight: 700;
+  font-size: 55px;
+  color:#181818;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.survive-description{
+  margin-left: 30px;
+  font-weight: 400; 
+  margin-bottom:50px;
+  font-size:25px;
+  color:#0f025d;
+}
+.ctn-survive{
+  margin-left: 30px;
+  padding: 8px 15px;
+  margin-top: 0px;
+  background: #430ec8;
+  border-radius: 40px;
+  color: #eff304;
+  font-size: 30px;
+}
+.update-title{
+  text-align:center;
+  font-weight: 700;
+  font-size: 65px;
+  margin-bottom: 50px;
+ }
+
+ .update-description{
+  color: #0f025d;
+  font-size: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.email-signup{
+  background: #b3d1f2;
+  border-radius: 10px;
+  display: flex;
+  height: 200px;
+  width: 809px;
+  justify-content:center;
+  align-items: center; 
+  margin-top: 30px;
+  overflow: hidden;
+  margin-left: 250px;
+  margin-right: 250px;
+  /* margin-bottom: 30px; */
+
+}
+.email-signup input{
+  font-size: 18px;
+  color: #cc97f0;
+  padding: 15px 10px;
+  margin-left: 20px;
+}
+.email-signup button{
+  background: #cc97f0;
+  padding: 15px 10px;
+  color: #430ec8;
+  font-size: 18px;
+  cursor: pointer;
+  margin-right: 20px;
+  
+}
+footer{
+  margin-top: 150px;
+  background: #eff304;
+  width: 100%;
+  font-family: italic;
+  padding: 100px 15%;
+}
+.footer-content{text-align: center;
+
+}
+.footer-title{
+  font-style: italic;
+  font-size: 50px;
+  margin-bottom: 15px;
+}
+.footer-description{
+  font-family: 'Times New Roman', Times, serif;
+}
